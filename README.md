@@ -2,7 +2,7 @@
 
 class 01 - Team F
 
-Members : 강희구(20203023), 권부연
+Members : 강희구(20203023), 권부연(20203030)
 
 # SourceCodes
 
