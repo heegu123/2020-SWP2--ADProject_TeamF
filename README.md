@@ -1,5 +1,7 @@
 # Software Project II - AD Project Team F
 
+Kookmin University - Computer Science - SoftWare Project II
+
 class 01 - Team F
 
 Members : 강희구(20203023), 권부연(20203030)
